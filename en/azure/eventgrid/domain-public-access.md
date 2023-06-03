@@ -1,18 +1,18 @@
 [![CloudSploit](https://cloudsploit.com/img/logo-new-big-text-100.png "CloudSploit")](https://cloudsploit.com)
 
-# AZURE / Event Grid / Domain Public Access
+# AZURE / Event Grid / Event Grid Domain Public Access
 
 ## Quick Info
 
 | | |
 |-|-|
-| **Plugin Title** | Domain Public Access |
+| **Plugin Title** | Event Grid Domain Public Access |
 | **Cloud** | AZURE |
 | **Category** | Event Grid |
-| **Description** | Ensure that Azure Event Grid domains do not have public access enabled. |
-| **More Info** | Enabling public access for Event Grid domains can expose sensitive information and increase the risk of unauthorized access. |
+| **Description** | Ensures that Azure Event Grid domains are not publicly accessible. |
+| **More Info** | By default, domains are accessible from internet as long as the request comes with valid authentication and authorization exposing sensitive information. By disabling public access, Event Grid domains can be configured to use private endpoint. |
 | **AZURE Link** | https://learn.microsoft.com/en-us/azure/event-grid/configure-firewall |
-| **Recommended Action** | Modify the affected domain and disable public network access. |
+| **Recommended Action** | Modify the affected domains and disable public network access |
 
 ## Detailed Remediation Steps
 1. Log in to the Microsoft Azure Management Console.
