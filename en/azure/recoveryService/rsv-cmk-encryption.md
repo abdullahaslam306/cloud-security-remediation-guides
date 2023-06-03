@@ -16,8 +16,8 @@
 
 ## Detailed Remediation Steps
 1. Log in to the Microsoft Azure Management Console.
-2. Select the "Search resources, services, and docs" option at the top and search for "Recovery Service Vault". </br> <img src="/recoveryService/azure/recoveryService/rsv-cmk-encryption/step2.png"/>
-3. Select the "Recovery Service Vault" by clicking on the "Name" link to access the configuration changes. </br> <img src="/recoveryService/azure/recoveryService/rsv-cmk-encryption/step3.png"/>
-4. In the left navigation panel, click on "Properties" under the "Settings" section.</br> <img src="/recoveryService/azure/recoveryService/rsv-cmk-encryption/step4.png"/>
-5. On the "Properties" page, under the "Backup" section, click on the "Update" button next to "Encryption" settings.</br> <img src="/recoveryService/azure/recoveryService/rsv-cmk-encryption/step5.png"/>
-6. On the Encryption settings page, select "Use your own key". Then, choose either "Enter key Uri" or "Select from Key Vault" to provide the key details. Enter the necessary information and click "Save" in the navigation bar at the top. </br> <img src="/recoveryService/azure/recoveryService/rsv-cmk-encryption/step6.png"/>
+2. Select the "Search resources, services, and docs" option at the top and search for "Recovery Service Vault". </br> <img src="/resources/azure/recoveryService/rsv-cmk-encryption/step2.png"/>
+3. Select the "Recovery Service Vault" by clicking on the "Name" link to access the configuration changes. </br> <img src="/resources/azure/recoveryService/rsv-cmk-encryption/step3.png"/>
+4. In the left navigation panel, click on "Properties" under the "Settings" section.</br> <img src="/resources/azure/recoveryService/rsv-cmk-encryption/step4.png"/>
+5. On the "Properties" page, under the "Backup" section, click on the "Update" button next to "Encryption" settings.</br> <img src="/resources/azure/recoveryService/rsv-cmk-encryption/step5.png"/>
+6. On the Encryption settings page, select "Use your own key". Then, choose either "Enter key Uri" or "Select from Key Vault" to provide the key details. Enter the necessary information and click "Save" in the navigation bar at the top. </br> <img src="/resources/azure/recoveryService/rsv-cmk-encryption/step6.png"/>
