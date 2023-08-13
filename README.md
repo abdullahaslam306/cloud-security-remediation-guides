@@ -172,6 +172,8 @@ This repository is an extension of CloudSploit's [open-source scanning engine](h
         * [Endpoint Logging Enabled](en/azure/cdnprofiles/endpoint-logging-enabled.md)
     * Container Registry
         * [ACR Admin User](en/azure/containerregistry/acr-admin-user.md)
+    * Event Hub
+        * [Event Hubs Minimum TLS Version](en/azure/event-hub/min-tls-version.md)
     * File Service
         * [File Service All Access ACL](en/azure/fileservice/file-service-all-access-acl.md)
     * Key Vaults
