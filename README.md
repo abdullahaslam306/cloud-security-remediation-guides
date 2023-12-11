@@ -192,6 +192,8 @@ This repository is an extension of CloudSploit's [open-source scanning engine](h
         * [Security Policy Alerts Enabled](en/azure/logalerts/security-policy-alerts-enabled.md)
         * [Security Solution Logging](en/azure/logalerts/security-solution-logging.md)
         * [Virtual Network Alerts Monitor](en/azure/logalerts/virtual-network-alerts-monitor.md)
+    * Media Services
+        * [Media Services Diagnostic Logs Enabled](en/azure/mediaservices/ams-diagnostic-logs-enabled.md)
     * Monitor
         * [Key Vault Log Analytics Enabled](en/azure/monitor/key-vault-log-analytics-enabled.md)
         * [Load Balancer Log Analytics Enabled](en/azure/monitor/load-balancer-log-analytics-enabled.md)
