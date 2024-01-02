@@ -295,6 +295,8 @@ This repository is an extension of CloudSploit's [open-source scanning engine](h
         * [VM OS Disk Encryption](en/azure/virtualmachines/vm-os-disk-encryption.md)
     * Virtual Networks
         * [Multiple Subnets](en/azure/virtualnetworks/multiple-subnets.md)
+    * Virtual Machine Scale Set
+        * [Scale Sets Secure Boot Enabled](en/azure/virtualmachinescaleset/scale-set-secure-boot-enabled.md)
 * Google
     * CLB
         * [CLB CDN Enabled](en/google/clb/clb-cdn-enabled.md)
